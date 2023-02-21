@@ -2,11 +2,11 @@
   <img src="https://user-images.githubusercontent.com/60453269/220384874-f136b1f9-a852-4774-a600-7fab9d77e8a2.png" alt="Logo" width="300" height="200" />
 </p>
 
-<h1 align="center"> Readme </h1>
+<h1 align="center"> ⭐ Readme </h1>
 
 <p align="center">
-  <b> Readme Legal </b></br>
-  <sub> Uma readme bonita, pratica e eficiente para usar em todos projeto e padronizar as readmes.
+  <b> ⭐ Readme Legal </b></br>
+  <sub> ⭐ Uma readme bonita, pratica e eficiente para usar em todos projeto e padronizar as readmes.
   <sub>
 </p>
 
@@ -26,11 +26,10 @@
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
-  ***⠀⠀⠀⠀Aqui vem uma breve introdução sobre o projeto, normalmente uso entre 2 ou 4 linhas**
+  ***⠀⠀⠀⠀⭐ Aqui vem uma breve introdução sobre o projeto, normalmente uso entre 2 ou 4 linhas***
 
 <br/>
 
-<br/>
 
 <a id="Resultados"></a>
 ## 🚀 Resultados 
@@ -44,33 +43,35 @@
 
 ### 🤳🏻 Mobile
 
-Login | Registro | Feed | Menu |
+<br />   
+
+  ### ***⠀⠀⠀⠀⭐ Basta arrastar a imagem desseja para a readme copiar a url e substituir a imagem antiga pela nova***
+
+<br />   
+
+
+⭐ Login | ⭐ Registro | ⭐ Feed | ⭐ Menu |
 |---|---|---|---|
 ![HomePagePhone](https://user-images.githubusercontent.com/60453269/216195912-079d82a0-0ab7-49f3-aa71-414a60b2f767.png) | ![DetalhesPhone](https://user-images.githubusercontent.com/60453269/216195909-5373005a-2e93-488f-959d-619260fc76a4.png)| ![DetalhesPhone](https://user-images.githubusercontent.com/60453269/216195906-bb69cd37-12bb-4deb-aa7f-bbe9c3873bef.png)| ![DetalhesPhone](https://user-images.githubusercontent.com/60453269/216195904-c6210dc9-2323-474b-8d70-8cda655f1ccc.png)
   
-Modal Post | Menu Hamburger | Feed |
-|---|---|---|
-![HomePagePhone](https://user-images.githubusercontent.com/60453269/216195896-b2fb1ee6-c3c8-400c-9e2c-5657b6637a63.png) | ![DetalhesPhone](https://user-images.githubusercontent.com/60453269/216195901-5418c8fd-13c2-44ad-9b4c-cc99a3dd59f7.png)| ![DetalhesPhone](https://user-images.githubusercontent.com/60453269/216195917-1a3b9456-672b-4077-8ed1-df528ce84205.png)
   
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
 ### 💻 Desktop 
   
- Login | Registro | Feed |
+ ⭐ Login | ⭐ Registro | ⭐ Feed |
 |---|---|---|
 ![HomePage](https://user-images.githubusercontent.com/60453269/216196816-732e76cb-ad41-499f-80fd-2cfa04f52ad5.png) | ![Detalhes](https://user-images.githubusercontent.com/60453269/216196824-69b5b6d2-cce1-4b08-9b03-ff5b5fcb8a12.png) | ![Detalhes](https://user-images.githubusercontent.com/60453269/216196822-5008a618-bf21-4bb3-8c0e-579131d771fa.png)
-    
- Modal Post | Feed outros | Menu Hamburger |
-|---|---|---|
-![HomePage](https://user-images.githubusercontent.com/60453269/216198241-b8096789-5ac3-44c9-80f0-1b476f27b7ed.png) | ![Detalhes](https://user-images.githubusercontent.com/60453269/216196820-933c5b3a-63b5-4373-abae-1e424969931f.png) | ![Detalhes](https://user-images.githubusercontent.com/60453269/216196818-2db64773-92e4-458d-80fc-70712bc1d7bd.png)
-  
+
 
 <br/>
 
 ## Back-end
 
 <br/>
+
+### ***⠀⠀⠀⠀⭐ Caso seu projeto seja um backend Aqui tem uma boa forma de demostra como que faz as requisições e oque retorna***
 
   
 ### 🎯 PEGAR TODOS OS DADOS DE UM USER ATRAVES DO ID 
@@ -213,6 +214,12 @@ http://localhost:3003/posts
 ## 🧪 Dependências
 > Requisitos para rotar o codigo...
 
+<br />   
+
+  ### ***⠀⠀⠀⠀⭐ Aqui você pode explicar como roda o codigo e quais as depencias***
+  
+<br />   
+
 
 ## `📖 Scripts` 
 
@@ -273,6 +280,11 @@ http://localhost:3003/posts
 ## 💡 Possíveis Melhoras
 > Possíveis melhorias no código e no projeto, caso queira voltar e melhorá lo.
 
+<br />
+
+  ### ***⠀⠀⠀⠀⭐ Acretido que todo projeto tem coisas que pode ser melhorado sendo assim aqui é uma area exclusiva para possiveis melhorias ou coisa que seria interessante ter no projeto, mas vai ficar para o futuro.***
+
+
 <br /> 
 
 - [ ] ***- Testa todo o código.*** 
@@ -292,14 +304,17 @@ http://localhost:3003/posts
 <a id="Creditos"></a>
 ## 🏆 Créditos
 
+
+<br />
+
+  ### ***⠀⠀⠀⠀⭐ Para todo projeto temos que dar creditos para os criadores então nada melhor do que finalizar com charme de ouro com os criadores/criador do projeto***
+
 <br /> 
 
 <div > 
 
 | [<img src="https://user-images.githubusercontent.com/60453269/217899761-dc2d4e4b-3336-419d-9076-79304290aa0a.png" width=300><br><sub> Maycon Coutinho </sub>](https://www.linkedin.com/in/maycon-coutinho/) | ***Hello 😃 Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal conversamos um pouco? Meu chama no linkedin 😁*** | 
 |---|---|
-
-
 
 
 </div> 
