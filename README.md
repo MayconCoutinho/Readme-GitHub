@@ -119,7 +119,7 @@
   
 <br /> 
 
-### 🎯 REGISTRA UM USUSARIO NO BANCO DE DADOS.
+### 🎯 REGISTRA UM USUÁRIO NO BANCO DE DADOS.
   
 ### ```POST``` 
 
