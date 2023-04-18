@@ -276,6 +276,30 @@ http://localhost:3003/posts
 ```
 
 
+<br /> 
+
+
+## `📖 Instalação` 
+
+<br /> 
+
+> Caso tenha Git basta da git clone, caso não tenha basta clicar em code e depois dowloand zip e seguir os proximos passos
+
+```BASH
+git clone "projeto"
+```
+
+<br /> 
+
+> Caso já tenha o Node em sua maquina basta instalar o projeto com npm i
+
+```BASH
+npm i 
+```
+
+<br /> 
+
+
 <a id="Ideias"></a>
 ## 💡 Possíveis Melhoras
 > Possíveis melhorias no código e no projeto, caso queira voltar e melhorá lo.
