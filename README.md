@@ -324,6 +324,8 @@ npm i
 <a id="Creditos"></a>
 ## 🏆 Créditos
 > Todo o projeto foi feito por...
+  
+<br /> 
 
 <div > 
 
@@ -331,3 +333,6 @@ npm i
 |---|---|
 
 </div> 
+  
+<br /> 
+
