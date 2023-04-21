@@ -34,7 +34,7 @@
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
-  ***⠀⠀⠀⠀⭐ Aqui vem uma breve introdução sobre o projeto, normalmente uso entre 2 ou 4 linhas***
+  ***⠀⠀⠀⠀Bem-vindo ao meu projeto de padronização de READMEs no GitHub! Ao longo dos anos, percebi que muitos dos meus projetos no GitHub tinham READMEs inconsistentes e mal formatados. Para resolver esse problema, desenvolvi um modelo de README que atende a todos os requisitos necessários e padroniza a apresentação de informações importantes.***
 
 <br/>
 
