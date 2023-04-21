@@ -2,11 +2,14 @@
   <img src="https://user-images.githubusercontent.com/60453269/220384874-f136b1f9-a852-4774-a600-7fab9d77e8a2.png" alt="Logo" width="300" height="200" />
 </p>
 
-<h1 align="center"> ⭐ Readme </h1>
+<h1 align="center"> Readme </h1>
+
+<a id="Sumário"></a>
+
 
 <p align="center">
-  <b> ⭐ Readme Legal </b></br>
-  <sub> ⭐ Uma readme bonita, pratica e eficiente para usar em todos projeto e padronizar as readmes.
+  <b> Readme Legal </b></br>
+  <sub> Uma readme bonita, pratica e eficiente para usar em todos projeto e padronizar as readmes.
   <sub>
 </p>
 
@@ -20,6 +23,10 @@
   <a href="#Ideias">💡 Possíveis Melhorias </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Creditos"> 🏆 Créditos </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+ 
+<br/>
+
+### 🚧 PROJETO EM ANDAMENTO 🚧
 
 <br/>
 
@@ -38,10 +45,6 @@
 <br/> 
 
 ## Front-end
-
-</summary>
-
-### 🤳🏻 Mobile
 
 <br />   
 
@@ -68,7 +71,8 @@
 <br/>
 
 ## Back-end
-
+>
+  
 <br/>
 
 ### ***⠀⠀⠀⠀⭐ Caso seu projeto seja um backend Aqui tem uma boa forma de demostra como que faz as requisições e oque retorna***
@@ -208,85 +212,27 @@ http://localhost:3003/posts
 }
 ```
 
-<br />   
+<br/>
+
+<a href="#Sumário"> 📖 Volta ao Sumário </a>
+
+<br /> 
 
 <a id="Dependências"></a>
 ## 🧪 Dependências
 > Requisitos para rotar o codigo...
 
-<br />   
-
-  ### ***⠀⠀⠀⠀⭐ Aqui você pode explicar como roda o codigo e quais as depencias***
-  
-<br />   
-
-
-## `📖 Scripts` 
-
-```JSON
-  "scripts": {
-    "start": "node ./build/src/index.js",
-    "build": "tsc",
-    "dev": "ts-node-dev ./src/index.ts",
-    "migrations": "tsc && node ./build/src/database/migrations/Migrations.js",
-    "test": "jest"
-  }
-
-```
-  
-
-## `📖 Dependencies` 
-
-```JSON
-  "dependencies": {
-        "bcryptjs": "^2.4.3",
-        "cors": "^2.8.5",
-        "dotenv": "^16.0.3",
-        "express": "^4.18.2",
-        "firebase": "^9.15.0",
-        "firebase-admin": "^11.5.0",
-        "jsonwebtoken": "^9.0.0",
-        "multer": "^1.4.5-lts.1",
-        "uuid": "^9.0.0"
-      }
-
-```
-
-<br /> 
-
-## `📖 devDependencies` 
-
-
-```JSON
-      "devDependencies": {
-        "@types/bcryptjs": "^2.4.2",
-        "@types/cors": "^2.8.13",
-        "@types/express": "^4.17.15",
-        "@types/jest": "^29.2.6",
-        "@types/jsonwebtoken": "^9.0.0",
-        "@types/multer": "^1.4.7",
-        "@types/node": "^18.11.18",
-        "@types/uuid": "^9.0.0",
-        "jest": "^29.4.0",
-        "ts-jest": "^29.0.5",
-        "ts-node-dev": "^2.0.0",
-        "typescript": "^4.9.4"
-      }
-
-```
-
-
-<br /> 
-
+<br/>
 
 ## `📖 Instalação` 
+  
+  
+ <br /> 
 
-<br /> 
-
-> Caso tenha Git basta da git clone, caso não tenha basta clicar em code e depois dowloand zip e seguir os proximos passos
+> Caso tenha Git basta da git clone, caso não tenha baixe o projeto completo em dowlon
 
 ```BASH
-git clone "projeto"
+git clone https://github.com/MayconCoutinho/Next.js-Template
 ```
 
 <br /> 
@@ -299,6 +245,63 @@ npm i
 
 <br /> 
 
+## `📖 Scripts` 
+
+```JSON
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prepare": "husky install"
+  }
+
+```
+
+<br/>
+
+## `📖 Dependencies` 
+
+```JSON
+  "dependencies": {
+    "axios": "^0.27.2",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sass": "^1.54.8"
+  }
+
+```
+
+<br /> 
+
+## `📖 devDependencies` 
+
+
+```JSON
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.1",
+    "@commitlint/config-conventional": "^17.6.1",
+    "eslint": "^8.38.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-next": "12.2.5",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.7"
+  }
+
+```
+<br/>
+
+<a href="#Sumário"> 📖 Volta ao Sumário </a>
+
+<br /> 
 
 <a id="Ideias"></a>
 ## 💡 Possíveis Melhoras
@@ -322,6 +325,11 @@ npm i
 - [ ] ***- Excluir Post***
 - [ ] ***- Editar Post*** 
 
+
+  
+<br/>
+
+<a href="#Sumário"> 📖 Volta ao Sumário </a>
 
 <br /> 
 
