@@ -308,26 +308,13 @@ npm i
 ## 💡 Possíveis Melhoras
 > Possíveis melhorias no código e no projeto, caso queira voltar e melhorá lo.
 
-<br />
-
-  ### ***⠀⠀⠀⠀⭐ Acretido que todo projeto tem coisas que pode ser melhorado sendo assim aqui é uma area exclusiva para possiveis melhorias ou coisa que seria interessante ter no projeto, mas vai ficar para o futuro.***
-
-
 <br /> 
 
 - [ ] ***- Testa todo o código.*** 
 - [ ] ***- Pesquisar o perfil com nome*** 
-- [ ] ***- Criar funcionalides para notificações*** 
-- [ ] ***- Criar funcionalides gostei***
-- [ ] ***- Criar comentario em postagens***
-- [ ] ***- Criar forma de compartilhar ou salvar post*** 
-- [ ] ***- Adicionar amigos*** 
-- [ ] ***- Ver post apenas de amigos***
-- [ ] ***- Excluir Post***
-- [ ] ***- Editar Post*** 
+- [ ] ***- *** 
+- [x] ***- *** 
 
-
-  
 <br/>
 
 <a href="#Sumário"> 📖 Volta ao Sumário </a>
@@ -336,18 +323,11 @@ npm i
 
 <a id="Creditos"></a>
 ## 🏆 Créditos
-
-
-<br />
-
-  ### ***⠀⠀⠀⠀⭐ Para todo projeto temos que dar creditos para os criadores então nada melhor do que finalizar com charme de ouro com os criadores/criador do projeto***
-
-<br /> 
+> Todo o projeto foi feito por...
 
 <div > 
 
 | [<img src="https://user-images.githubusercontent.com/60453269/217899761-dc2d4e4b-3336-419d-9076-79304290aa0a.png" width=300><br><sub> Maycon Coutinho </sub>](https://www.linkedin.com/in/maycon-coutinho/) | ***Hello 😃 Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal conversamos um pouco? Meu chama no linkedin 😁*** | 
 |---|---|
-
 
 </div> 
