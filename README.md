@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60453269/220384874-f136b1f9-a852-4774-a600-7fab9d77e8a2.png" alt="Logo" width="300" height="200" />
+  <img src="https://user-images.githubusercontent.com/60453269/233516295-acd066c4-dc18-404d-b479-48db92859de8.png" alt="Logo" width="200" height="200" />
 </p>
 
 <h1 align="center"> Readme </h1>
@@ -25,6 +25,7 @@
 </p>
  
 <br/>
+
 
 ### 🚧 PROJETO EM ANDAMENTO 🚧
 
