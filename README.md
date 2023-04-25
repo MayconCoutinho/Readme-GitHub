@@ -233,7 +233,7 @@ http://localhost:3003/posts
 > Caso tenha Git basta da git clone, caso não tenha baixe o projeto completo em dowlon
 
 ```BASH
-git clone https://github.com/MayconCoutinho/Next.js-Template
+git clone https://github.com/MayconCoutinho/Readme-GitHub
 ```
 
 <br /> 
